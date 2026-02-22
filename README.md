@@ -1,6 +1,6 @@
-# CheckInOutApp
+# Ai-Replace-Me
 
-Check In/Check Out CodeApp for managing employee check-in and check-out events.
+This repo is used to build Code Apps.
 
 ## Getting Started
 
