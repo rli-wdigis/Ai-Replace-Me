@@ -1,63 +1,20 @@
-# Ai-Replace-Me
+# CheckInOutApp
 
-> Short one-line description of what this project does.
+Check In/Check Out CodeApp for managing employee check-in and check-out events.
 
-## Overview
-Explain the purpose of the project, who it’s for, and what problem it solves.
+## Getting Started
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+### Cloning the Repository
 
-## Requirements
-- List runtime requirements (e.g., Node.js 20+, Python 3.11+, Docker, etc.)
 
-## Installation
-```bash
-# clone
-git clone https://github.com/rli-wdigis/Ai-Replace-Me.git
-cd Ai-Replace-Me
+For detailed information about submodule access in different contexts (local development, CI/CD, Copilot agents), see:
 
-# install dependencies (edit to match)
-# npm install
-# pip install -r requirements.txt
-```
+📖 **[External Submodule Access Guide](.github/docs/EXTERNAL_SUBMODULE_ACCESS.md)**
 
-## Configuration
-Create a `.env` file (if applicable):
+## Documentation
 
-```bash
-# example
-API_KEY=replace_me
-```
+For comprehensive development and deployment guides, see the `.github/docs/` directory:
 
-## Usage
-```bash
-# example commands (edit to match)
-# npm run dev
-# python -m your_module
-```
-
-## Development
-```bash
-# tests (edit to match)
-# npm test
-# pytest
-```
-
-## Project Structure
-Describe important directories/files.
-
-## Deployment
-Describe how to build/deploy (CI, Docker, cloud, etc.)
-
-## Contributing
-1. Fork the repo
-2. Create a branch: `git checkout -b feature/my-change`
-3. Commit: `git commit -m "Add my change"`
-4. Push: `git push origin feature/my-change`
-5. Open a PR
-
-## License
-Specify the license (e.g., MIT). If you have a `LICENSE` file, reference it here.
+- [CodeApp Development Guide](.github/docs/CODEAPP_DEVELOPMENT_GUIDE.md)
+- [CodeApp Deployment Guide](.github/docs/CODEAPP_DEPLOYMENT_GUIDE.md)
+- [Copilot Instructions](.github/copilot-instructions.md)
