@@ -15,6 +15,11 @@ For detailed information about submodule access in different contexts (local dev
 
 For comprehensive development and deployment guides, see the `.github/docs/` directory:
 
-- [CodeApp Development Guide](.github/docs/CODEAPP_DEVELOPMENT_GUIDE.md)
-- [CodeApp Deployment Guide](.github/docs/CODEAPP_DEPLOYMENT_GUIDE.md)
-- [Copilot Instructions](.github/copilot-instructions.md)
+
+## Links (source of truth)
+- [CODEAPP_QUICKSTART.md](https://github.com/WDI-GIS/wdi_tools/blob/28c951c44d5f28cb2415cbc1aa76b792ae735d94/.github/docs/CODEAPP_QUICKSTART.md)
+- [CODEAPP_DEVELOPMENT_GUIDE.md](https://github.com/WDI-GIS/wdi_tools/blob/28c951c44d5f28cb2415cbc1aa76b792ae735d94/.github/docs/CODEAPP_DEVELOPMENT_GUIDE.md)
+- [CODEAPP_DEPLOYMENT_GUIDE.md](https://github.com/WDI-GIS/wdi_tools/blob/28c951c44d5f28cb2415cbc1aa76b792ae735d94/.github/docs/CODEAPP_DEPLOYMENT_GUIDE.md)
+- [CODEAPP_DEPLOYMENT_TROUBLESHOOTING.md](https://github.com/WDI-GIS/wdi_tools/blob/28c951c44d5f28cb2415cbc1aa76b792ae735d94/.github/docs/CODEAPP_DEPLOYMENT_TROUBLESHOOTING.md)
+- [CODEAPP_FEATURE_ENABLEMENT.md](https://github.com/WDI-GIS/wdi_tools/blob/28c951c44d5f28cb2415cbc1aa76b792ae735d94/.github/docs/CODEAPP_FEATURE_ENABLEMENT.md)
+- [CODEAPP_VERSION_INCREMENT.md](https://github.com/WDI-GIS/wdi_tools/blob/28c951c44d5f28cb2415cbc1aa76b792ae735d94/.github/docs/CODEAPP_VERSION_INCREMENT.md)
